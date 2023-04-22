@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://vashong.github.io/csb-y3sm1r/static/css/main.ca58351a.css",
+    "main.js": "https://vashong.github.io/csb-y3sm1r/static/js/main.a39e7a01.js",
+    "index.html": "https://vashong.github.io/csb-y3sm1r/index.html",
+    "main.ca58351a.css.map": "https://vashong.github.io/csb-y3sm1r/static/css/main.ca58351a.css.map",
+    "main.a39e7a01.js.map": "https://vashong.github.io/csb-y3sm1r/static/js/main.a39e7a01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca58351a.css",
+    "static/js/main.a39e7a01.js"
+  ]
+}
